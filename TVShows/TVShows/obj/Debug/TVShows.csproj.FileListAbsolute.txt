@@ -1,0 +1,12 @@
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\TVShows.exe.config
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\TVShows.exe
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\TVShows.pdb
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\obj\Debug\TVShows.csprojAssemblyReference.cache
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\obj\Debug\TVShows.csproj.CoreCompileInputs.cache
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\obj\Debug\TVShows.exe
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\obj\Debug\TVShows.pdb
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\EntityFramework.dll
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\EntityFramework.xml
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valsisdes1\Source\GoNet\TVShows\TVShows\obj\Debug\TVShows.csproj.CopyComplete
